@@ -28,7 +28,7 @@ _(For now, run it locally by following the setup instructions below.)_
 - **Database:** MongoDB (for caching)
 - **APIs:** Twitter API, OpenWeather API
 - **NLP:** SpaCy, TextBlob
-- **Containerization:** Docker (optional)
+- **Containerization:** Docker 
 
 ---
 
@@ -114,8 +114,8 @@ _(The frontend runs on `http://localhost:3000`)_
 
 ## ⚡ Author
 **👩‍💻 Ridhima Morampudi**  
-🌟 Follow me on [GitHub](https://github.com/your-username)  
-📧 Contact: `your-email@example.com`
+🌟 Follow me on [GitHub](https://github.com/ridhimamorampudi)  
+📧 Contact: `rmorampudi@g.ucla.edu`
 
 ---
 
