@@ -16,12 +16,6 @@ This web app **analyzes live Twitter data** to suggest **top travel destinations
 
 ---
 
-## 🎬 Demo
-🚀 **Live Demo Coming Soon!**  
-_(For now, run it locally by following the setup instructions below.)_
-
----
-
 ## 🛠️ Tech Stack
 - **Frontend:** React.js, HTML, CSS
 - **Backend:** Flask (Python)
